@@ -1,4 +1,4 @@
-# pretrain_recommend_transfer
+# pretrain_recommend_transfer learning dataset
 
 推荐系统预训练pre-training+跨域推荐、迁移学习场景大规模数据集（开源）
 A Large-scale Dataset for Transfer Learning and Pre-training in Recommendation.

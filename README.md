@@ -7,7 +7,9 @@ A Large-scale Dataset for Transfer Learning and Pre-training in Recommendation.
 DataSets links for recommender systems research, in particular for transfer learning,  pre-training, lifelong learning, cold start recommendation, cross-domain recommendation
 
 https://github.com/fajieyuan/recommendation_dataset_pretraining     文献1
+
 https://drive.google.com/open?id=1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH  文献2
+
 注: 文献1和文献2数据集来自同一套原始数据。文献1点击和点赞行为进行了区分。
 
 
